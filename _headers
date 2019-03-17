@@ -1,0 +1,40 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/offline-plugin-app-shell-fallback/
+  Link: </webpack-runtime-ed5e26f49189ae312679.js>; rel=preload; as=script
+  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-f127552be977f9c10cf1.js>; rel=preload; as=script
+/in-the-beginning
+  Link: </webpack-runtime-ed5e26f49189ae312679.js>; rel=preload; as=script
+  Link: </0-b0c78ff4b3eb925df4ee.js>; rel=preload; as=script
+/why-now
+  Link: </webpack-runtime-ed5e26f49189ae312679.js>; rel=preload; as=script
+  Link: </0-b0c78ff4b3eb925df4ee.js>; rel=preload; as=script
+/categories/start-here
+  Link: </webpack-runtime-ed5e26f49189ae312679.js>; rel=preload; as=script
+  Link: </0-b0c78ff4b3eb925df4ee.js>; rel=preload; as=script
+/categories/moving-forward
+  Link: </webpack-runtime-ed5e26f49189ae312679.js>; rel=preload; as=script
+  Link: </0-b0c78ff4b3eb925df4ee.js>; rel=preload; as=script
+/categories/motivation
+  Link: </webpack-runtime-ed5e26f49189ae312679.js>; rel=preload; as=script
+  Link: </0-b0c78ff4b3eb925df4ee.js>; rel=preload; as=script
+/categories/
+  Link: </webpack-runtime-ed5e26f49189ae312679.js>; rel=preload; as=script
+  Link: </0-b0c78ff4b3eb925df4ee.js>; rel=preload; as=script
+/contact/
+  Link: </webpack-runtime-ed5e26f49189ae312679.js>; rel=preload; as=script
+  Link: </0-b0c78ff4b3eb925df4ee.js>; rel=preload; as=script
+/
+  Link: </webpack-runtime-ed5e26f49189ae312679.js>; rel=preload; as=script
+  Link: </0-b0c78ff4b3eb925df4ee.js>; rel=preload; as=script
+/success/
+  Link: </webpack-runtime-ed5e26f49189ae312679.js>; rel=preload; as=script
+  Link: </0-b0c78ff4b3eb925df4ee.js>; rel=preload; as=script
