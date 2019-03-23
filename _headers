@@ -9,44 +9,50 @@
 /sw.js
   Cache-Control: no-cache
 /offline-plugin-app-shell-fallback/
-  Link: </webpack-runtime-c67ba36b525e3df9a40a.js>; rel=preload; as=script
+  Link: </webpack-runtime-62f32f4dcc0d1faa5df6.js>; rel=preload; as=script
   Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-f127552be977f9c10cf1.js>; rel=preload; as=script
 /in-the-beginning
-  Link: </webpack-runtime-c67ba36b525e3df9a40a.js>; rel=preload; as=script
+  Link: </webpack-runtime-62f32f4dcc0d1faa5df6.js>; rel=preload; as=script
   Link: </0-b0c78ff4b3eb925df4ee.js>; rel=preload; as=script
 /the-court-system-helping-or-hurting
-  Link: </webpack-runtime-c67ba36b525e3df9a40a.js>; rel=preload; as=script
+  Link: </webpack-runtime-62f32f4dcc0d1faa5df6.js>; rel=preload; as=script
   Link: </0-b0c78ff4b3eb925df4ee.js>; rel=preload; as=script
 /co-parenting-i-hate-that-word
-  Link: </webpack-runtime-c67ba36b525e3df9a40a.js>; rel=preload; as=script
+  Link: </webpack-runtime-62f32f4dcc0d1faa5df6.js>; rel=preload; as=script
   Link: </0-b0c78ff4b3eb925df4ee.js>; rel=preload; as=script
 /lets-talk-about-ex-ba-by
-  Link: </webpack-runtime-c67ba36b525e3df9a40a.js>; rel=preload; as=script
+  Link: </webpack-runtime-62f32f4dcc0d1faa5df6.js>; rel=preload; as=script
+  Link: </0-b0c78ff4b3eb925df4ee.js>; rel=preload; as=script
+/lets-talk-about-ex-ba-by-part-3
+  Link: </webpack-runtime-62f32f4dcc0d1faa5df6.js>; rel=preload; as=script
+  Link: </0-b0c78ff4b3eb925df4ee.js>; rel=preload; as=script
+/lets-talk-about-ex-ba-by-part-2
+  Link: </webpack-runtime-62f32f4dcc0d1faa5df6.js>; rel=preload; as=script
   Link: </0-b0c78ff4b3eb925df4ee.js>; rel=preload; as=script
 /categories/start-here
-  Link: </webpack-runtime-c67ba36b525e3df9a40a.js>; rel=preload; as=script
+  Link: </webpack-runtime-62f32f4dcc0d1faa5df6.js>; rel=preload; as=script
   Link: </0-b0c78ff4b3eb925df4ee.js>; rel=preload; as=script
 /categories/court
-  Link: </webpack-runtime-c67ba36b525e3df9a40a.js>; rel=preload; as=script
+  Link: </webpack-runtime-62f32f4dcc0d1faa5df6.js>; rel=preload; as=script
   Link: </0-b0c78ff4b3eb925df4ee.js>; rel=preload; as=script
 /categories/family-intervention
-  Link: </webpack-runtime-c67ba36b525e3df9a40a.js>; rel=preload; as=script
+  Link: </webpack-runtime-62f32f4dcc0d1faa5df6.js>; rel=preload; as=script
   Link: </0-b0c78ff4b3eb925df4ee.js>; rel=preload; as=script
 /categories/moving-forward
-  Link: </webpack-runtime-c67ba36b525e3df9a40a.js>; rel=preload; as=script
+  Link: </webpack-runtime-62f32f4dcc0d1faa5df6.js>; rel=preload; as=script
   Link: </0-b0c78ff4b3eb925df4ee.js>; rel=preload; as=script
 /categories/motivation
-  Link: </webpack-runtime-c67ba36b525e3df9a40a.js>; rel=preload; as=script
+  Link: </webpack-runtime-62f32f4dcc0d1faa5df6.js>; rel=preload; as=script
   Link: </0-b0c78ff4b3eb925df4ee.js>; rel=preload; as=script
 /categories/
-  Link: </webpack-runtime-c67ba36b525e3df9a40a.js>; rel=preload; as=script
+  Link: </webpack-runtime-62f32f4dcc0d1faa5df6.js>; rel=preload; as=script
   Link: </0-b0c78ff4b3eb925df4ee.js>; rel=preload; as=script
 /contact/
-  Link: </webpack-runtime-c67ba36b525e3df9a40a.js>; rel=preload; as=script
+  Link: </webpack-runtime-62f32f4dcc0d1faa5df6.js>; rel=preload; as=script
   Link: </0-b0c78ff4b3eb925df4ee.js>; rel=preload; as=script
 /
-  Link: </webpack-runtime-c67ba36b525e3df9a40a.js>; rel=preload; as=script
+  Link: </webpack-runtime-62f32f4dcc0d1faa5df6.js>; rel=preload; as=script
   Link: </0-b0c78ff4b3eb925df4ee.js>; rel=preload; as=script
 /success/
-  Link: </webpack-runtime-c67ba36b525e3df9a40a.js>; rel=preload; as=script
+  Link: </webpack-runtime-62f32f4dcc0d1faa5df6.js>; rel=preload; as=script
   Link: </0-b0c78ff4b3eb925df4ee.js>; rel=preload; as=script
