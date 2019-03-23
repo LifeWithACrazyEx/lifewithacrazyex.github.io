@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://LifeWithACrazyEx.com/in-the-beginning</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://LifeWithACrazyEx.com/why-now</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://LifeWithACrazyEx.com/the-court-system-helping-or-hurting</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://LifeWithACrazyEx.com/co-parenting-i-hate-that-word</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://LifeWithACrazyEx.com/lets-talk-about-ex-ba-by</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://LifeWithACrazyEx.com/categories/start-here</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://LifeWithACrazyEx.com/categories/moving-forward</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://LifeWithACrazyEx.com/categories/motivation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://LifeWithACrazyEx.com/categories/court</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://LifeWithACrazyEx.com/categories/family-intervention</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://LifeWithACrazyEx.com/categories/moving-forward</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://LifeWithACrazyEx.com/categories/motivation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://LifeWithACrazyEx.com/categories/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://LifeWithACrazyEx.com/contact/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://LifeWithACrazyEx.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
